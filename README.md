@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Arijit Roy!
 🚀 Aspiring Full-Stack Developer | ML Engineer | Cloud Engineer | Problem Solving
 
+
 ### About Me
 I’m passionate about building robust, scalable systems and exploring innovative cloud solutions.  
 💻 Skilled in **React**, **Node.js**, **Django**, **Python**, **Deep Learning**, **GCP**, and **MySQL**  
@@ -37,8 +38,6 @@ I’m passionate about building robust, scalable systems and exploring innovativ
 [![Google Cloud Developer Profile](https://img.shields.io/badge/Google%20Cloud%20Developer%20Profile-4285F4?logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/efffe803-89b9-4b4f-b4e1-54fbeef7e2b1)
 
 
-
-
 ### 🌟 Featured Projects
 
 - **[Online Auction Platform](https://github.com/your-repo-link)**  
@@ -50,8 +49,10 @@ I’m passionate about building robust, scalable systems and exploring innovativ
 - **[Semantic Segmentation for Aerial Imagery](https://github.com/your-repo-link)**  
   Leveraging deep learning for UAV data analysis, tailored for segmentation tasks on datasets like UAVid and Aeroscapes.
 
-  ### 📊 GitHub Stats
-![Arijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArijitRoy22&show_icons=true&theme=radical)
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArijitRoy22&show_icons=true&theme=radical&hide_title=true)
+
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArijitRoy22&layout=compact&theme=radical)](https://github.com/ArijitRoy22)
 
