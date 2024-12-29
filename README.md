@@ -34,6 +34,9 @@ I’m passionate about building robust, scalable systems and exploring innovativ
 
 **Cloud Platforms:**  
 ![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white)
+[![Google Cloud Developer Profile](https://img.shields.io/badge/Google%20Cloud%20Developer%20Profile-4285F4?logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/efffe803-89b9-4b4f-b4e1-54fbeef7e2b1)
+
+
 
 
 ### 🌟 Featured Projects
@@ -53,8 +56,10 @@ I’m passionate about building robust, scalable systems and exploring innovativ
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArijitRoy22&layout=compact&theme=radical)](https://github.com/ArijitRoy22)
 
 ### 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/-ArijitRoy-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-ArijitRoy-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arijit-roy-/)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:arijit.roy022@gmail.com)
+[![Google Cloud Developer Profile](https://img.shields.io/badge/Google%20Cloud%20Developer%20Profile-4285F4?logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/efffe803-89b9-4b4f-b4e1-54fbeef7e2b1)
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ArijitRoy22&color=brightgreen)
 
