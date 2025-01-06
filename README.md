@@ -57,9 +57,11 @@ I’m passionate about building robust, scalable systems and exploring innovativ
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArijitRoy22&layout=compact&theme=radical)](https://github.com/ArijitRoy22)
 
 ### 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/-ArijitRoy-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arijit-roy-/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arijit-roy-/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:arijit.roy022@gmail.com)
 [![Google Cloud Developer Profile](https://img.shields.io/badge/Google%20Cloud%20Developer%20Profile-4285F4?logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/efffe803-89b9-4b4f-b4e1-54fbeef7e2b1)
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue?logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1DcHR-366orHzFN-DLE_2J_fJo_MuyNQJ/view?usp=sharing)
+
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ArijitRoy22&color=brightgreen)
