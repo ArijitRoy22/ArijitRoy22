@@ -6,8 +6,10 @@
 I’m passionate about building robust, scalable systems and exploring innovative cloud solutions.  
 💻 Skilled in **React**, **Node.js**, **Django**, **Python**, **Deep Learning**, **GCP**, and **MySQL**  
 🌱 Currently diving deeper into **Cloud Engineering** and **Semantic Segmentation**  
-✨ Always eager to learn and collaborate!
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue?logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1DcHR-366orHzFN-DLE_2J_fJo_MuyNQJ/view?usp=sharing)
+✨ Always eager to learn and collaborate!  
+
+📄 [![Resume](https://img.shields.io/badge/Resume-blue?logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1DcHR-366orHzFN-DLE_2J_fJo_MuyNQJ/view?usp=sharing)
+
 
 ### 🛠️ Tech Stack
 
