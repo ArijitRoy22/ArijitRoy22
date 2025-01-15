@@ -42,11 +42,11 @@ I’m passionate about building robust, scalable systems and exploring innovativ
 
 ### 🌟 Featured Projects
 
-- **[Online Auction Platform](https://github.com/your-repo-link)**  
-  Built with **Django** and **JavaScript**, featuring real-time bidding, secure authentication, and seamless item management.  
+- **[Management System Software]([https://github.com/your-repo-link](https://github.com/ArijitRoy22/Management-System-Software))**  
+  Built a Management System to visualize timesheet data, reducing time spent on employee details by 40%. It features a multi-level login system: Employees can view their own data, Project Managers can access project details, and Managers have full access to both employee and project data.
 
-- **[Extranet Login System](https://github.com/your-repo-link)**  
-  A **React + Node.js** application with JWT-based authentication and role-based access.  
+- **[Online Auction Platform]([https://github.com/your-repo-link](https://github.com/ArijitRoy22/Mini-Project2))**  
+  Built with **Django** and **JavaScript**, featuring real-time bidding, secure authentication, and seamless item management.  
 
 - **[Semantic Segmentation for Aerial Imagery](https://github.com/your-repo-link)**  
   Leveraging deep learning for UAV data analysis, tailored for segmentation tasks on datasets like UAVid and Aeroscapes.
