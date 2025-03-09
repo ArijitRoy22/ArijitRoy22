@@ -48,7 +48,7 @@ I’m passionate about building robust, scalable systems and exploring innovativ
 - **[Online Auction Platform](https://github.com/ArijitRoy22/Mini-Project2)**  
   Built with **Django** and **JavaScript**, featuring real-time bidding, secure authentication, and seamless item management.  
 
-- **[Semantic Segmentation for Aerial Imagery](https://github.com/your-repo-link)**  
+- **[Semantic Segmentation for Aerial Imagery](https://github.com/ArijitRoy22/AeroUNet3-)**  
   Leveraging deep learning for UAV data analysis, tailored for segmentation tasks on datasets like UAVid and Aeroscapes.
 
 
